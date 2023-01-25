@@ -15,6 +15,7 @@ Software Engineer
 
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+<a href="https://docs.soliditylang.org/en/v0.8.7/#" target="_blank"><img   src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg" alt="Solidity" height="36"  width="36"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
@@ -26,6 +27,7 @@ Software Engineer
 <a href="https://www.rabbitmq.com/" target="_blank"><img   src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="36"  width="36"/></a>
 <a href="https://www.docker.com/" target="_blank"><img   src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="36"  width="36"/></a>  
 <a href="https://kubernetes.io/" target="_blank"><img   src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="36"  width="36"/></a>  
+
  </p> 
 
 ### Socials
