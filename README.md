@@ -1,6 +1,11 @@
-### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Atilla Kaan Karvan 
-### Software Engineer 
- Passionate Software Engineer with an interest in Web3 and Blockchain.  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Atilla Kaan Karvan 
+=======================================================================================================================================
+
+Software Engineer 
+------------------
+
+ Passionate Software Engineer with an interest in Web3 and Blockchain. 
+ 
 * 🌍  I'm based in Istanbul 
 * ✉️  You can contact me at [kaankarv99@gmail.com](mailto:kaankarv99@gmail.com) 
 * 🧠  I'm learning Golang, Solidity & Smart Contracts
