@@ -8,7 +8,7 @@ Software Engineer
  
 * 🌍  I'm based in Istanbul 
 * ✉️  You can contact me at [kaankarv99@gmail.com](mailto:kaankarv99@gmail.com) 
-* 🧠  I'm learning Golang, Solidity & Smart Contracts
+* 🧠  I'm learning Golang & Java
 
 <a href="https://www.github.com/kaankarv" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/kaankarv?logo=github&style=for-the-badge&color=ec4899&labelColor=0f172a" /></a><a href="https://www.twitter.com/kaankarv" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/kaankarv?logo=twitter&style=for-the-badge&color=ec4899&labelColor=0f172a" /></a>
 ### Skills  
