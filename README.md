@@ -32,7 +32,3 @@ Software Engineer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/kaankarv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kaankarvan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kaankarvan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kaankarv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/kaankarv"><img src="https://github-readme-stats.vercel.app/api?username=kaankarv&show_icons=true&hide=stars,&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="kaankarv's GitHub stats" /></a>
