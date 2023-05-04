@@ -10,8 +10,6 @@ Software Engineer
 * ✉️  You can contact me at [kaankarv99@gmail.com](mailto:kaankarv99@gmail.com) 
 * 🧠  I'm learning Golang & Java
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaankarv&theme=tokyonight)
-
 ### Skills  
 
 <p align="left">
@@ -33,3 +31,5 @@ Software Engineer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/kaankarv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kaankarvan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kaankarvan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kaankarv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaankarv&theme=tokyonight)
