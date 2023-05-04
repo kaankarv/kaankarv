@@ -10,9 +10,7 @@ Software Engineer
 * ✉️  You can contact me at [kaankarv99@gmail.com](mailto:kaankarv99@gmail.com) 
 * 🧠  I'm learning Golang & Java
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-### Skills  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaankarv&theme=tokyonight)### Skills  
 
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
