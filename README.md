@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Atilla Kaan Karvan 
+Atilla Kaan Karvan 
 =======================================================================================================================================
 
 Software Engineer 
@@ -6,9 +6,8 @@ Software Engineer
 
  Passionate Software Engineer with an interest in Web3 and Blockchain. 
  
-* 🌍  I'm based in Istanbul 
-* ✉️  You can contact me at [kaankarv99@gmail.com](mailto:kaankarv99@gmail.com) 
-* 🧠  I'm learning Golang & Java
+*✉️  You can contact me at [kaankarv99@gmail.com](mailto:kaankarv99@gmail.com) 
+*🧠 Golang & Java
 
 ### Skills  
 
@@ -31,5 +30,3 @@ Software Engineer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/kaankarv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kaankarvan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kaankarvan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaankarv&theme=tokyonight)
