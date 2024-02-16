@@ -6,9 +6,9 @@ Software Engineer
 
  Passionate Software Engineer with an interest in Web3 and Blockchain. 
  
-*✉️  You can contact me at [kaankarv99@gmail.com](mailto:kaankarv99@gmail.com) 
+✉️  You can contact me at [kaankarv99@gmail.com](mailto:kaankarv99@gmail.com) 
 
-*🧠 Golang & Java
+🧠 Golang & Java
 
 ### Skills  
 
